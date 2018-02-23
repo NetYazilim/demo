@@ -4,4 +4,4 @@ language: go
 
 env:
   - CGO_ENABLED=0
-
+  - GOARCH=amd64
