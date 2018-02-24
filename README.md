@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/LSagiroglu/demo.png)](https://travis-ci.org/LSagiroglu/demo)
-[![CircleCI](https://img.shields.io/circleci/project/github//LSagiroglu/demo.svg?style=flat-square)](https://circleci.com/gh/LSagiroglu/demo)
+[![CircleCI](https://img.shields.io/circleci/project/github/LSagiroglu/demo.svg?style=flat-square)](https://circleci.com/gh/LSagiroglu/demo)
 
 
 # Travis-CI example for Go
